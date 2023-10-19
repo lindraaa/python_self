@@ -2,7 +2,6 @@
 import os
 
 f_array = [10, 12,20,22,30,32,40,42,50,52]
-
 while True:
     os.system("cls")
     print("[a] Add an element <at the end> ")
