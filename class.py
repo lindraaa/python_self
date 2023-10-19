@@ -4,7 +4,6 @@ class Car:
         self.model = model
         self.year = year
         self.color = color
-        
     def drive(self):
         print("The car is driving")
     def stop(self):
