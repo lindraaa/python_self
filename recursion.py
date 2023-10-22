@@ -5,4 +5,6 @@ def recurs(num):
         print(num)
         recurs(num-1)
         
+
 recurs(5)
+
