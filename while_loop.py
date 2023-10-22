@@ -13,6 +13,7 @@ while y <10:
         break
 
 z = 1
+
 while z <= 10:
     print(z)
     z+=1
