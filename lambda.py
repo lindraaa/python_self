@@ -4,6 +4,7 @@ print(x(1,2,3))
 
 
 
+
 def myfunction (x):
     return lambda n : n *x 
 
