@@ -1,6 +1,7 @@
 myList = []
 even = 0
 
+
 while len(myList) < 9:
     try:
         number = int(input("Enter a number: "))
