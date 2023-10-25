@@ -23,8 +23,6 @@ print(set1)
 set1.update(set2)
 print(set1)
 
-
-
 set1.update(list1) #adding sets to list or vice versa
 print(set1)
 
