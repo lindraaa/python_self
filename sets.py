@@ -11,4 +11,5 @@ print(type(set1))
 for x in set1:
     print(x)
 
+
 print("B" in set1)
