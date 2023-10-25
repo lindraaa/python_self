@@ -1,10 +1,6 @@
 x = lambda a, b ,c  : a+b+c
 print(x(1,2,3))
 
-
-
-
-
 def myfunction (x):
     return lambda n : n *x 
 
