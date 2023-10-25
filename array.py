@@ -11,6 +11,7 @@ while True:
 
     x = input("Enter the letter of your choice: ")
 
+    
     if x == "a":
         os.system("cls")
         y = input("Enter the new element: ")
