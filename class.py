@@ -10,7 +10,6 @@ class Car:
         print("The car is stopping")
 
 from car import Car
-
 car1 = Car("Chevy", "Corvette", 2020, "black")
 
 
