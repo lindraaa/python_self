@@ -7,6 +7,7 @@ print(tuple)
 print(len(tuple))
 print(numtuple)
 
+
 print(type(tuple))
 print(type(ntuple))
 print(type(numtuple))
