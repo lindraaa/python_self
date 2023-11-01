@@ -4,7 +4,5 @@ def recurs(num):
     else:
         print(num)
         recurs(num-1)
-
-
 recurs(5)
 
