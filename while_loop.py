@@ -9,7 +9,6 @@ while y <10:
     y+=1
     if y == 6:
         break
-
 z = 1
 
 while z <= 10:
