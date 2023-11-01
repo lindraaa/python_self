@@ -6,6 +6,7 @@ def myfunction (x):
 
 double = myfunction(2)
 
+
 print("hi", double(11))
 
 product = lambda a, b=1 , c=2 :a+b+c
