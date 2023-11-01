@@ -13,7 +13,6 @@ for x in set1:
     print(x)
 
 print("B" in set1)
-
 #Add set
 
 set1.add("D")
